@@ -34,7 +34,7 @@ export default function Categories() {
 
         <div className="box">
           <img src="image/cat-4.png" alt="" />
-          <h3>freshh meat</h3>
+          <h3>fresh meat</h3>
           <p>upto 45% off</p>
           <button type="button" className="btn">shop now</button>
         </div>

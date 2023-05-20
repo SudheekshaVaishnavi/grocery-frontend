@@ -39,12 +39,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-1.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+              Hyper Mart was first recommended by a friend. Now, my entire family and I use their products. There's something for everybody -- mindfully sourced and reasonably priced -- love it!
               </p>
-              <h3>john deo</h3>
+              <h3>Himanjal Agarwal</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -58,12 +55,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-2.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+              What keeps me hooked to Hyper Mart is that their claim of providing Organic & Natural food is actually genuine.
               </p>
-              <h3>john deo</h3>
+              <h3>Diyana Miraj</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -77,12 +71,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-3.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+              Hyper Mart was first recommended by a friend. Now, my entire family and I use their products. There's something for everybody -- mindfully sourced and reasonably priced -- love it!
               </p>
-              <h3>john deo</h3>
+              <h3>Shasti Jain</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
